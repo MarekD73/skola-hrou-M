@@ -38,10 +38,12 @@ function menu() {
             let vzorec1 = (3+3); {
                 let priklady = prompt("Zadej výpočet ")
 
-                let resort= vzorec1 === 6;{
-                    // console.log(`${vzorec1} Je správně`);
+                  if (priklady === "6") {
+                       console.log(`${vzorec1} Je správně`);
 
-                }
+                      } else {
+                      console.log("ŠPATNE");
+                      }
             }
             let soucet1 = function (a,b){
                 return a+b;
@@ -54,10 +56,12 @@ function menu() {
             let vzorec2 = (5+3); {
                 let priklady = prompt("Zadej výpočet ")
 
-                let resort= vzorec2 === 8;{
-                    // console.log(`${vzorec2} Je správně`);
+                    if (priklady === "8") {
+                        console.log(`${vzorec2} Je správně`);
 
-                }
+                      } else {
+                        console.log("ŠPATNE");
+                    }
             }
             let soucet2 = function (a,b){
                 return a+b;
@@ -69,10 +73,12 @@ function menu() {
             let vzorec3 = (4+3); {
                 let priklady = prompt("Zadej výpočet ")
 
-                let resort= vzorec3 === 7;{
-                    // console.log(`${vzorec3} Je správně`);
+                   if (priklady === "7"){
+                        console.log(`${vzorec3} Je správně`);
 
-                }
+                       } else {
+                         console.log("ŠPATNE");
+                   }
             }
             let soucet3 = function (a,b){
                 return a+b;
@@ -84,10 +90,12 @@ function menu() {
             let vzorec4 = (1+1); {
                 let priklady = prompt("Zadej výpočet ")
 
-                let resort= vzorec4 === 2;{
-                    // console.log(`${vzorec4} Je správně`);
+                    if(priklady === "2") {
+                       console.log(`${vzorec4} Je správně`);
 
-                }
+                    } else {
+                        console.log("ŠPATNE");
+                    }
             }
             let soucet4 = function (a,b){
                 return a+b;
@@ -100,10 +108,12 @@ function menu() {
             let vzorec5 = (3+2); {
                 let priklady = prompt("Zadej výpočet ")
 
-                let resort= vzorec5 === 5;{
-                    // console.log(`${vzorec5} Je správně`);
+                    if(priklady === "5"){
+                       console.log(`${vzorec5} Je správně`);
 
-                }
+                    } else {
+                        console.log("ŠPATNE");
+                    }
             }
             let soucet5 = function (a,b){
                 return a+b;
@@ -116,10 +126,12 @@ function menu() {
             let vzorec6 = (5-3); {
                 let priklady = prompt("Zadej výpočet ")
 
-                let resort= vzorec6 === 2;{
-                    // console.log(`${vzorec6} Je správně`);
+                    if (priklady === "2") {
+                        console.log(`${vzorec6} Je správně`);
 
-                }
+                    } else {
+                        console.log("ŠPATNE");
+                    }
             }
             let soucet6 = function (a,b){
                 return a-b;
@@ -132,10 +144,12 @@ function menu() {
             let vzorec7 = (8-5); {
                 let priklady = prompt("Zadej výpočet ")
 
-                let resort= vzorec7 === 3;{
-                    // console.log(`${vzorec7} Je správně`);
+                    if (priklady === "3") {
+                        console.log(`${vzorec7} Je správně`);
 
-                }
+                    } else {
+                        console.log("ŠPATNE");
+                    }
             }
             let soucet7 = function (a,b){
                 return a-b;
@@ -148,10 +162,12 @@ function menu() {
             let vzorec8 = (7-3); {
                 let priklady = prompt("Zadej výpočet ")
 
-                let resort= vzorec8 === 4;{
-                    // console.log(`${vzorec8} Je správně`);
+                    if (priklady === "4") {
+                      console.log(`${vzorec8} Je správně`);
 
-                }
+                    } else {
+                        console.log("ŠPATNE");
+                    }
             }
             let soucet8 = function (a,b){
                 return a-b;
@@ -164,10 +180,12 @@ function menu() {
             let vzorec9 = (9-8); {
                 let priklady = prompt("Zadej výpočet ")
 
-                let resort= vzorec9 === 1;{
-                    // console.log(`${vzorec9} Je správně`);
+                    if (priklady === "1") {
+                         console.log(`${vzorec9} Je správně`);
 
-                }
+                    } else {
+                        console.log("ŠPATNE");
+                    }
             }
             let soucet9 = function (a,b){
                 return a-b;
@@ -180,10 +198,12 @@ function menu() {
             let vzorec10 = (5-1); {
                 let priklady = prompt("Zadej výpočet ")
 
-                let resort= vzorec10 === 4;{
-                    // console.log(`${vzorec10} Je správně`);
+                    if (priklady === "4") {
+                        console.log(`${vzorec10} Je správně`);
 
-                }
+                    } else {
+                        console.log("ŠPATNE");
+                    }
             }
             let soucet10 = function (a,b){
                 return a-b;
